@@ -29,14 +29,16 @@ Built with **React (Vite)**, **Tailwind CSS**, and follows clean component-drive
 
 ---
 ## 📂 Project Structure
-src/
-├── components/ # Reusable UI components (Navbar, Footer, BookCard, etc.)
-├── context/ # Wishlist context & hooks
-├── pages/ # Page-level components (Home, About, Wishlist, BookDetails)
-├── App.jsx # Main app with routes
-├── index.css # Global Tailwind styles
-└── main.jsx # React entry point
 
+```plaintext
+src/
+├── components/       # Reusable UI components (Navbar, Footer, BookCard, etc.)
+├── context/          # Wishlist context & hooks
+├── pages/            # Page-level components (Home, About, Wishlist, BookDetails)
+├── App.jsx           # Main app with routes
+├── index.css         # Global Tailwind styles
+└── main.jsx          # React entry point
+```
 
 ---
 
@@ -68,4 +70,5 @@ Shuaib Akhtar Siddiqui
 🔗 GitHub :https://github.com/shuaibsiddiqui768
 💼 LinkedIn: https://www.linkedin.com/in/sasiddiqui21/
 
-## 📂 Project Structure
+
+
